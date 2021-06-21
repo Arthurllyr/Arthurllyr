@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Arthurllyr
+- 👀 I'm a GEOINT researcher
+- 🌱 I’m currently learning R & Python to work with spatial datas
